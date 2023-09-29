@@ -26,7 +26,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['todo-list-abd.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['todo-list-abd-08318a6ce3a2.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
